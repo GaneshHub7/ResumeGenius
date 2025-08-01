@@ -1,0 +1,23 @@
+# Virtual environment
+myvenv/
+.myvenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Editor backups and config
+.vscode/
+.idea/
+
+# Streamlit secret/config files
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing, data, and logs (optional - add your own as needed)
+*.log
+output/
+data/
